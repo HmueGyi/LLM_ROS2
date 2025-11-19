@@ -1,5 +1,0 @@
-vosk
-requests
-sounddevice
-numpy
-rclpy
