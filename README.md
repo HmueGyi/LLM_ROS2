@@ -45,7 +45,7 @@ conversation.
 ``` bash
 colcon build
 source install/setup.bash
-ros2 run llm_ros2 ollama_chat_node
+ros2 run llm_ros2 ollama_chatbot
 ```
 
 ## 🚀 Usage
