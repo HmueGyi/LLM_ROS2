@@ -28,7 +28,8 @@ conversation.
 ## 📁 Project Structure
 
     llm_ros2/
-     ├── llm_chat_node.py
+     ├── llm_ros2/
+     │    ├── ollama_chatbot.py
      ├── tts/
      │    ├── en_US-lessac-low.onnx
      │    └── en_US-lessac-low.onnx.json
