@@ -66,6 +66,17 @@ sudo apt install ffmpeg
 pip install -r requirements.txt
 ```
 
+Standard library (no installation needed):
+``` bash
+json
+tempfile
+os
+subprocess
+queue
+threading
+time
+```
+
 ------------------------------------------------------------------------
 
 ## 6. Build ROS2 Workspace
