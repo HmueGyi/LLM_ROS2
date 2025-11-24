@@ -62,6 +62,7 @@ wget https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/lessac/lo
 ## 5. Python Dependencies
 
 ``` bash
+sudo apt install ffmpeg
 pip install -r requirements.txt
 ```
 
